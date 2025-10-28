@@ -1,0 +1,33 @@
+# This is my Agriculture Management Software Built in Python & Javascript
+# It utilises my React JS & Django REST
+# Designed to build on top of my learnings from the Constructor Academy Bootcamp
+# This purpose of this project is to cement my learnings from the program
+
+
+"""
+
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACAlpZD68ZGgsqC+bZD2JufDCDMZuhh13Gp7BRh6YMSm4gAAAKBCBGfHQgRn
+xwAAAAtzc2gtZWQyNTUxOQAAACAlpZD68ZGgsqC+bZD2JufDCDMZuhh13Gp7BRh6YMSm4g
+AAAECUJSV+tCRhl1YpaAj4ObnzbSAULPGCOJmskkXaz+/22SWlkPrxkaCyoL5tkPYm58MI
+Mxm6GHXcansFGHpgxKbiAAAAFnlvdXJfZW1haWxAZXhhbXBsZS5jb20BAgMEBQYH
+-----END OPENSSH PRIVATE KEY-----
+
+
+The key fingerprint is:
+SHA256:RtXaPsfKI+OEu8iO9yIC9aN8NvpkirEYO+HUEEDTmE8 your_email@example.com
+The key's randomart image is:
++--[ED25519 256]--+
+|+o+       ..     |
+| +.E     .  .    |
+|  +     .  o     |
+| ...   .  . .    |
+| .o.    S  . .   |
+|o. .o  . .  o o  |
+|=+ .o.  . .. +   |
+|oB++=oo. oo +    |
+|=.o*o=+o+o.o .   |
++----[SHA256]-----+
+
+"""
