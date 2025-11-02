@@ -1,2 +1,1 @@
-'''
-I need to set this up tommoro
+#This is my agricultural management software
