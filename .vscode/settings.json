@@ -13,10 +13,3 @@
     "**/.vscode/**": true
   }
 }
-
-{
-  "python.defaultInterpreterPath": "/Users/ashleyedgar/anaconda3/envs/agriculturemanagementsoftware/bin/python",
-  "python.analysis.extraPaths": ["./backend"],
-  "python.testing.pytestEnabled": true,
-  "python.testing.unittestEnabled": false
-}
