@@ -21,5 +21,6 @@ def home(request):
         "Backend (Django): http://127.0.0.1:8000/\n"
         "  -> python manage.py migrate\n"
         "  -> python manage.py runserver\n"
+        ":)"
     )
     return HttpResponse (text, content_type="text/plain")
