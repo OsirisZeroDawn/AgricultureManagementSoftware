@@ -22,5 +22,6 @@ def home(request):
         "  -> python manage.py migrate\n"
         "  -> python manage.py runserver\n"
         ":) now to get the development server -> for frontend & backend"
+        "testing commit"
     )
     return HttpResponse (text, content_type="text/plain")
