@@ -16,9 +16,12 @@ def home(request):
     text =(
         "This is the home page for Django for Ashley's Agriculture Management Software\n\n"
         "Frontend (React): http://localhost:5173/\n"
+         "  -> Must be in frontend-agriculturemanagementsoftware file\n"
         "  -> npm install\n"
         "  -> npm run dev\n\n"
         "Backend (Django): http://127.0.0.1:8000/\n"
+        "   -> must be in backend?\n"
+        "   -> python manage.py makemigrations\n"
         "  -> python manage.py migrate\n"
         "  -> python manage.py runserver\n"
         ":) now to get the development server -> for frontend & backend"
