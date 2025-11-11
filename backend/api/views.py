@@ -21,6 +21,7 @@ def home(request):
         "  -> npm run dev\n\n"
         "Backend (Django): http://127.0.0.1:8000/\n"
         "   -> must be in backend?\n"
+        "   -> now plan out\n"
         "   -> python manage.py makemigrations\n"
         "  -> python manage.py migrate\n"
         "  -> python manage.py runserver\n"
